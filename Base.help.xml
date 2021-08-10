@@ -78,7 +78,6 @@
           </lines>
           <bounds x="1" y="0" width="1" height="1" />
           <style t="2">
-            <height>14.25pt</height>
             <hidden>1</hidden>
             <outlineLevel>1</outlineLevel>
             <conditionalFormats />
@@ -155,7 +154,6 @@
           </lines>
           <bounds x="2" y="0" width="1" height="1" />
           <style t="2">
-            <height>14.25pt</height>
             <hidden>1</hidden>
             <outlineLevel>1</outlineLevel>
             <conditionalFormats />
@@ -365,7 +363,7 @@ Premium</s>
       <s n="16">+= 400</s>
       <s n="17">R3</s>
       <s n="18">Luxury</s>
-      <s n="19">+= 700</s>
+      <s n="19">+= 300</s>
       <s n="20">R4</s>
     </sharedStrings>
     <brushes>
