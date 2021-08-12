@@ -37,12 +37,5 @@
       </Database>
       <Transition name="Transition12" to="Activity6" />
     </Activity>
-    <Activity name="Activity6">
-      <CallIrd contextMode="New">
-        <IrdSource uri="Cars-IRD.xml" />
-        <Param name="cars" value="thefts" />
-      </CallIrd>
-      <Transition name="Transition13" to="Activity2" />
-    </Activity>
   </Nodes>
 </Flow>
