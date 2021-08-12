@@ -25,8 +25,8 @@
       <Transition name="Transition5" to="Decision1" />
     </Activity>
     <Decision name="Decision1">
-      <Transition name="Transition6" to="Activity4" condition="!isValid" />
       <Transition name="Transition10" to="Activity5" condition="isValid" />
+      <Transition name="Transition6" to="Activity19" condition="!isValid" />
     </Decision>
     <Activity name="Activity4">
       <Transition name="Transition9" to="End1" />
@@ -43,6 +43,9 @@
         <Param name="cars" value="thefts" />
       </CallIrd>
       <Transition name="Transition13" to="Activity2" />
+    </Activity>
+    <Activity name="Activity19">
+      <Transition name="Transition21" to="Activity4" />
     </Activity>
   </Nodes>
 </Flow>

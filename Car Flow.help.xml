@@ -463,68 +463,6 @@ Load Cars Profile</Text>
       </End>
     </Points>
   </NodeInfo>
-  <NodeInfo name="Transition6" type="Transition">
-    <Label>
-      <Text>No</Text>
-      <Font>
-        <Name>Microsoft Sans Serif</Name>
-        <Style>Regular</Style>
-        <Size>9</Size>
-      </Font>
-    </Label>
-    <FillColorFrom>-9868951</FillColorFrom>
-    <FillColorTo>-9868951</FillColorTo>
-    <Border>
-      <Color>-16777216</Color>
-      <Width>0.3</Width>
-    </Border>
-    <Location>
-      <X>72.09998</X>
-      <Y>96.35413</Y>
-    </Location>
-    <Size>
-      <Width>85.88333</Width>
-      <Height>58.54377</Height>
-    </Size>
-    <Shape>Cascading</Shape>
-    <SegmentCount>4</SegmentCount>
-    <Anchors>
-      <Origin>-1</Origin>
-      <Destination>-1</Destination>
-    </Anchors>
-    <Head>Triangle</Head>
-    <Pen>0/#FF000000/0.3/0/0//0/0/10/</Pen>
-    <Points>
-      <Point>
-        <X>72.39998</X>
-        <Y>96.65414</Y>
-      </Point>
-      <Point>
-        <X>72.39999</X>
-        <Y>154.5979</Y>
-      </Point>
-      <Point>
-        <X>99.82915</X>
-        <Y>154.5979</Y>
-      </Point>
-      <Point>
-        <X>99.82915</X>
-        <Y>154.4812</Y>
-      </Point>
-      <Point>
-        <X>157.6833</X>
-        <Y>154.4812</Y>
-      </Point>
-      <Start>
-        <X>72.39998</X>
-        <Y>96.65414</Y>
-      </Start>
-      <End>
-        <X>157.6833</X>
-        <Y>154.4812</Y>
-      </End>
-    </Points>
-  </NodeInfo>
   <NodeInfo name="Transition10" type="Transition">
     <Label>
       <Text></Text>
@@ -769,5 +707,141 @@ and create the database</Text>
       <Width>57.93127</Width>
       <Height>49.11874</Height>
     </Size>
+  </NodeInfo>
+  <NodeInfo name="Activity19" type="Activity">
+    <Label>
+      <Text></Text>
+      <Font>
+        <Name>Microsoft Sans Serif</Name>
+        <Style>Regular</Style>
+        <Size>9</Size>
+      </Font>
+      <Size>
+        <Width>20</Width>
+        <Height>10</Height>
+      </Size>
+      <Location>
+        <X>62.43332</X>
+        <Y>150.3562</Y>
+      </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
+    </Label>
+    <Image></Image>
+    <ImageAlign>Center</ImageAlign>
+    <FillColorFrom>-7876885</FillColorFrom>
+    <FillColorTo>-12156236</FillColorTo>
+    <Border>
+      <Color>-16777216</Color>
+      <Width>0.3</Width>
+    </Border>
+    <Location>
+      <X>62.43332</X>
+      <Y>150.3562</Y>
+    </Location>
+    <Size>
+      <Width>20</Width>
+      <Height>10</Height>
+    </Size>
+  </NodeInfo>
+  <NodeInfo name="Transition6" type="Transition">
+    <Label>
+      <Text>No</Text>
+      <Font>
+        <Name>Microsoft Sans Serif</Name>
+        <Style>Regular</Style>
+        <Size>9</Size>
+      </Font>
+    </Label>
+    <FillColorFrom>-9868951</FillColorFrom>
+    <FillColorTo>-9868951</FillColorTo>
+    <Border>
+      <Color>-16777216</Color>
+      <Width>0.3</Width>
+    </Border>
+    <Location>
+      <X>72.40376</X>
+      <Y>96.65057</Y>
+    </Location>
+    <Size>
+      <Width>0.0270462</Width>
+      <Height>53.72443</Height>
+    </Size>
+    <Shape>Polyline</Shape>
+    <SegmentCount>1</SegmentCount>
+    <Anchors>
+      <Origin>-1</Origin>
+      <Destination>-1</Destination>
+    </Anchors>
+    <Head>Triangle</Head>
+    <Points>
+      <Point>
+        <X>72.40376</X>
+        <Y>96.65057</Y>
+      </Point>
+      <Point>
+        <X>72.43081</X>
+        <Y>150.375</Y>
+      </Point>
+      <Start>
+        <X>72.40376</X>
+        <Y>96.65057</Y>
+      </Start>
+      <End>
+        <X>72.43081</X>
+        <Y>150.375</Y>
+      </End>
+    </Points>
+  </NodeInfo>
+  <NodeInfo name="Transition21" type="Transition">
+    <Label>
+      <Text></Text>
+      <Font>
+        <Name>Microsoft Sans Serif</Name>
+        <Style>Regular</Style>
+        <Size>9</Size>
+      </Font>
+    </Label>
+    <FillColorFrom>-9868951</FillColorFrom>
+    <FillColorTo>-9868951</FillColorTo>
+    <Border>
+      <Color>-16777216</Color>
+      <Width>0.3</Width>
+    </Border>
+    <Location>
+      <X>82.4375</X>
+      <Y>154.5757</Y>
+    </Location>
+    <Size>
+      <Width>75.25</Width>
+      <Height>0.692215</Height>
+    </Size>
+    <Shape>Polyline</Shape>
+    <SegmentCount>1</SegmentCount>
+    <Anchors>
+      <Origin>-1</Origin>
+      <Destination>-1</Destination>
+    </Anchors>
+    <Head>Triangle</Head>
+    <Points>
+      <Point>
+        <X>82.4375</X>
+        <Y>155.268</Y>
+      </Point>
+      <Point>
+        <X>157.6875</X>
+        <Y>154.5757</Y>
+      </Point>
+      <Start>
+        <X>82.4375</X>
+        <Y>155.268</Y>
+      </Start>
+      <End>
+        <X>157.6875</X>
+        <Y>154.5757</Y>
+      </End>
+    </Points>
   </NodeInfo>
 </Nodes>
